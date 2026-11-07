@@ -1,0 +1,484 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/kansas-eats",
+ "restaurants": 5711,
+ "places_incl_hidden": 6055,
+ "towns": 374,
+ "counties": 104,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 39,
+ "serves_alcohol_state_license": 0,
+ "guide_chicken": 6,
+ "guide_bbq": 23,
+ "guide_sliders": 6,
+ "guide_heritage": 4,
+ "oldest": 7,
+ "honors": 8,
+ "michelin": {},
+ "james_beard": 8,
+ "americas_classics": 0,
+ "permits_updated": "",
+ "city_pages": {
+  "Wichita": {
+   "restaurants": 951,
+   "listed": 12,
+   "chicken": 0,
+   "bbq": 6,
+   "sliders": 4,
+   "heritage": 0,
+   "hon": 2,
+   "oldest": 2
+  }
+ },
+ "cities_without_a_page": {
+  "Overland Park": 3,
+  "Kansas City": 2,
+  "Olathe": 0,
+  "Topeka": 2,
+  "Lawrence": 1,
+  "Shawnee": 2,
+  "Manhattan": 0,
+  "Lenexa": 1,
+  "Salina": 2,
+  "Hutchinson": 1,
+  "Leawood": 2,
+  "Pittsburg": 3,
+  "Hays": 1,
+  "Emporia": 1,
+  "Garden City": 0,
+  "Dodge City": 0,
+  "Council Grove": 1,
+  "Frontenac": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 434904,
+   "gzip": 99124
+  },
+  "data/detail-allen-county.json": {
+   "raw": 1259,
+   "gzip": 485
+  },
+  "data/detail-anderson-county.json": {
+   "raw": 729,
+   "gzip": 331
+  },
+  "data/detail-atchison-county.json": {
+   "raw": 1660,
+   "gzip": 588
+  },
+  "data/detail-barber-county.json": {
+   "raw": 345,
+   "gzip": 195
+  },
+  "data/detail-barton-county.json": {
+   "raw": 2568,
+   "gzip": 864
+  },
+  "data/detail-bourbon-county.json": {
+   "raw": 1608,
+   "gzip": 611
+  },
+  "data/detail-brown-county.json": {
+   "raw": 970,
+   "gzip": 408
+  },
+  "data/detail-butler-county.json": {
+   "raw": 6514,
+   "gzip": 1894
+  },
+  "data/detail-chase-county.json": {
+   "raw": 475,
+   "gzip": 308
+  },
+  "data/detail-chautauqua-county.json": {
+   "raw": 179,
+   "gzip": 147
+  },
+  "data/detail-cherokee-county.json": {
+   "raw": 1885,
+   "gzip": 670
+  },
+  "data/detail-cheyenne-county.json": {
+   "raw": 396,
+   "gzip": 237
+  },
+  "data/detail-clark-county.json": {
+   "raw": 161,
+   "gzip": 110
+  },
+  "data/detail-clay-county.json": {
+   "raw": 761,
+   "gzip": 326
+  },
+  "data/detail-cloud-county.json": {
+   "raw": 1293,
+   "gzip": 479
+  },
+  "data/detail-coffey-county.json": {
+   "raw": 1026,
+   "gzip": 425
+  },
+  "data/detail-comanche-county.json": {
+   "raw": 246,
+   "gzip": 169
+  },
+  "data/detail-cowley-county.json": {
+   "raw": 3197,
+   "gzip": 915
+  },
+  "data/detail-crawford-county.json": {
+   "raw": 5394,
+   "gzip": 1732
+  },
+  "data/detail-decatur-county.json": {
+   "raw": 77,
+   "gzip": 78
+  },
+  "data/detail-dickinson-county.json": {
+   "raw": 1523,
+   "gzip": 572
+  },
+  "data/detail-doniphan-county.json": {
+   "raw": 286,
+   "gzip": 178
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 17049,
+   "gzip": 4548
+  },
+  "data/detail-edwards-county.json": {
+   "raw": 77,
+   "gzip": 81
+  },
+  "data/detail-elk-county.json": {
+   "raw": 257,
+   "gzip": 171
+  },
+  "data/detail-ellis-county.json": {
+   "raw": 4707,
+   "gzip": 1440
+  },
+  "data/detail-ellsworth-county.json": {
+   "raw": 730,
+   "gzip": 350
+  },
+  "data/detail-finney-county.json": {
+   "raw": 4915,
+   "gzip": 1434
+  },
+  "data/detail-ford-county.json": {
+   "raw": 4263,
+   "gzip": 1305
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 2284,
+   "gzip": 832
+  },
+  "data/detail-geary-county.json": {
+   "raw": 3547,
+   "gzip": 1070
+  },
+  "data/detail-gove-county.json": {
+   "raw": 421,
+   "gzip": 238
+  },
+  "data/detail-graham-county.json": {
+   "raw": 280,
+   "gzip": 199
+  },
+  "data/detail-grant-county.json": {
+   "raw": 775,
+   "gzip": 332
+  },
+  "data/detail-gray-county.json": {
+   "raw": 370,
+   "gzip": 212
+  },
+  "data/detail-greenwood-county.json": {
+   "raw": 423,
+   "gzip": 228
+  },
+  "data/detail-hamilton-county.json": {
+   "raw": 305,
+   "gzip": 167
+  },
+  "data/detail-harper-county.json": {
+   "raw": 533,
+   "gzip": 265
+  },
+  "data/detail-harvey-county.json": {
+   "raw": 3614,
+   "gzip": 1094
+  },
+  "data/detail-haskell-county.json": {
+   "raw": 656,
+   "gzip": 304
+  },
+  "data/detail-hodgeman-county.json": {
+   "raw": 137,
+   "gzip": 98
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 1062,
+   "gzip": 412
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 711,
+   "gzip": 271
+  },
+  "data/detail-jewell-county.json": {
+   "raw": 182,
+   "gzip": 138
+  },
+  "data/detail-johnson-county.json": {
+   "raw": 79241,
+   "gzip": 18807
+  },
+  "data/detail-kearny-county.json": {
+   "raw": 231,
+   "gzip": 166
+  },
+  "data/detail-kingman-county.json": {
+   "raw": 556,
+   "gzip": 266
+  },
+  "data/detail-kiowa-county.json": {
+   "raw": 215,
+   "gzip": 160
+  },
+  "data/detail-labette-county.json": {
+   "raw": 1187,
+   "gzip": 450
+  },
+  "data/detail-lane-county.json": {
+   "raw": 140,
+   "gzip": 116
+  },
+  "data/detail-leavenworth-county.json": {
+   "raw": 6590,
+   "gzip": 1890
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 143,
+   "gzip": 120
+  },
+  "data/detail-linn-county.json": {
+   "raw": 357,
+   "gzip": 184
+  },
+  "data/detail-logan-county.json": {
+   "raw": 397,
+   "gzip": 212
+  },
+  "data/detail-lyon-county.json": {
+   "raw": 4265,
+   "gzip": 1337
+  },
+  "data/detail-marion-county.json": {
+   "raw": 958,
+   "gzip": 403
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 1037,
+   "gzip": 418
+  },
+  "data/detail-mcpherson-county.json": {
+   "raw": 3597,
+   "gzip": 1076
+  },
+  "data/detail-meade-county.json": {
+   "raw": 473,
+   "gzip": 228
+  },
+  "data/detail-miami-county.json": {
+   "raw": 2683,
+   "gzip": 897
+  },
+  "data/detail-mitchell-county.json": {
+   "raw": 705,
+   "gzip": 326
+  },
+  "data/detail-montgomery-county.json": {
+   "raw": 3516,
+   "gzip": 1028
+  },
+  "data/detail-morris-county.json": {
+   "raw": 1090,
+   "gzip": 522
+  },
+  "data/detail-morton-county.json": {
+   "raw": 237,
+   "gzip": 163
+  },
+  "data/detail-nemaha-county.json": {
+   "raw": 696,
+   "gzip": 308
+  },
+  "data/detail-neosho-county.json": {
+   "raw": 1345,
+   "gzip": 512
+  },
+  "data/detail-ness-county.json": {
+   "raw": 262,
+   "gzip": 152
+  },
+  "data/detail-norton-county.json": {
+   "raw": 596,
+   "gzip": 279
+  },
+  "data/detail-osage-county.json": {
+   "raw": 817,
+   "gzip": 360
+  },
+  "data/detail-osborne-county.json": {
+   "raw": 284,
+   "gzip": 182
+  },
+  "data/detail-ottawa-county.json": {
+   "raw": 79,
+   "gzip": 78
+  },
+  "data/detail-pawnee-county.json": {
+   "raw": 473,
+   "gzip": 237
+  },
+  "data/detail-phillips-county.json": {
+   "raw": 711,
+   "gzip": 318
+  },
+  "data/detail-pottawatomie-county.json": {
+   "raw": 3350,
+   "gzip": 1062
+  },
+  "data/detail-pratt-county.json": {
+   "raw": 1109,
+   "gzip": 425
+  },
+  "data/detail-rawlins-county.json": {
+   "raw": 108,
+   "gzip": 87
+  },
+  "data/detail-reno-county.json": {
+   "raw": 7791,
+   "gzip": 2181
+  },
+  "data/detail-republic-county.json": {
+   "raw": 361,
+   "gzip": 218
+  },
+  "data/detail-rice-county.json": {
+   "raw": 1243,
+   "gzip": 464
+  },
+  "data/detail-riley-county.json": {
+   "raw": 9125,
+   "gzip": 2571
+  },
+  "data/detail-rooks-county.json": {
+   "raw": 502,
+   "gzip": 272
+  },
+  "data/detail-rush-county.json": {
+   "raw": 108,
+   "gzip": 87
+  },
+  "data/detail-russell-county.json": {
+   "raw": 680,
+   "gzip": 307
+  },
+  "data/detail-saline-county.json": {
+   "raw": 7831,
+   "gzip": 2244
+  },
+  "data/detail-scott-county.json": {
+   "raw": 733,
+   "gzip": 331
+  },
+  "data/detail-sedgwick-county.json": {
+   "raw": 69570,
+   "gzip": 16530
+  },
+  "data/detail-seward-county.json": {
+   "raw": 3170,
+   "gzip": 966
+  },
+  "data/detail-shawnee-county.json": {
+   "raw": 21230,
+   "gzip": 5329
+  },
+  "data/detail-sheridan-county.json": {
+   "raw": 108,
+   "gzip": 89
+  },
+  "data/detail-sherman-county.json": {
+   "raw": 870,
+   "gzip": 352
+  },
+  "data/detail-smith-county.json": {
+   "raw": 428,
+   "gzip": 219
+  },
+  "data/detail-stafford-county.json": {
+   "raw": 195,
+   "gzip": 115
+  },
+  "data/detail-stanton-county.json": {
+   "raw": 147,
+   "gzip": 136
+  },
+  "data/detail-stevens-county.json": {
+   "raw": 619,
+   "gzip": 293
+  },
+  "data/detail-sumner-county.json": {
+   "raw": 1946,
+   "gzip": 695
+  },
+  "data/detail-thomas-county.json": {
+   "raw": 1468,
+   "gzip": 517
+  },
+  "data/detail-trego-county.json": {
+   "raw": 552,
+   "gzip": 279
+  },
+  "data/detail-wabaunsee-county.json": {
+   "raw": 425,
+   "gzip": 243
+  },
+  "data/detail-wallace-county.json": {
+   "raw": 95,
+   "gzip": 104
+  },
+  "data/detail-washington-county.json": {
+   "raw": 560,
+   "gzip": 295
+  },
+  "data/detail-wichita-county.json": {
+   "raw": 232,
+   "gzip": 144
+  },
+  "data/detail-wilson-county.json": {
+   "raw": 1057,
+   "gzip": 419
+  },
+  "data/detail-woodson-county.json": {
+   "raw": 271,
+   "gzip": 180
+  },
+  "data/detail-wyandotte-county.json": {
+   "raw": 16516,
+   "gzip": 4470
+  },
+  "data/ids.json": {
+   "raw": 74271,
+   "gzip": 43387
+  },
+  "data/ks_shapes.json": {
+   "raw": 23335,
+   "gzip": 4975
+  }
+ }
+}

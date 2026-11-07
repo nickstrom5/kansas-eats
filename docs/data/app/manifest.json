@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.2",
+ "records_through": "2026-11-06",
+ "published": "2026-11-07T05:45:29Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-kansas": {
+   "path": "detail-kansas-82ebb20d9448.json",
+   "sha256": "82ebb20d944820a63b0d9d0000bd1f14d196465141060bafcec1063365e6fc18",
+   "bytes": 400613,
+   "rows": 5948
+  },
+  "places": {
+   "path": "places-2d0178ebb6ce.json",
+   "sha256": "2d0178ebb6ce8547cc4999f19f7d0090b38fadeaa342a7f792009849809075d3",
+   "bytes": 971530,
+   "rows": 6055
+  }
+ },
+ "counts": {
+  "places": 6055,
+  "files": 2,
+  "bytes": 1372143,
+  "restaurants": 5711
+ },
+ "previous": {
+  "version": "2026-11-06.1",
+  "files": {
+   "detail-kansas": "detail-kansas-57e53ea1eca5.json",
+   "places": "places-2d0178ebb6ce.json"
+  }
+ }
+}
