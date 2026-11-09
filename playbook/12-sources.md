@@ -10,10 +10,12 @@
   Compliance" or "Out of Compliance" plus violations, with no score, grade or placard (prompt). The page says the program "has
   transitioned inspection data platforms": results on or after July 6, 2026 on the new portal (portal.kda.ks.gov/Food/
   FoodInspectionSearch, updated nightly; search, map and Export CSV are reCAPTCHA v3-gated and rate-limited: never scripted), and
-  August 5, 2015 to July 5, 2026 on the old one (foodsafety.kda.ks.gov, ASP.NET, an Export button, no CAPTCHA seen: harvest only with
-  Nick's yes). Earlier records need an Open Records (KORA) request. The page cites K.S.A. 45-230: names and addresses from public
-  records may not be used for certain commercial purposes (civil penalty up to $500 each). **Nick picks a bulk route** (his own CSV
-  export from the new portal, or a KORA request); without one the app ships with no inspection results, as now.
+  August 5, 2015 to July 5, 2026 on the old one (foodsafety.kda.ks.gov, ASP.NET, an Export button, no CAPTCHA seen). Nick said yes to a
+  one-time harvest of the old portal (2026-11-07), but it has no robots.txt: the server answers HTTP 500 for every missing file,
+  robots.txt included, and RFC 9309 reads a 5xx there as "assume complete disallow". Our rule is to follow robots.txt, so it is **on
+  hold** (the parent session, 2026-11-07): Kansas ships with no inspection results. Earlier records need an Open Records (KORA) request. The page cites K.S.A. 45-230: names and addresses from public
+  records may not be used for certain commercial purposes (civil penalty up to $500 each). **Nick's routes, not now** (2026-11-07): his own CSV
+  export from the new portal, or a KORA request; without one the app ships with no inspection results, as now.
 - **KDOR Alcoholic Beverage Control** licensee database (kdor.ks.gov/apps/liquorlicensee/): opens only after an "I agree" to a KORA
   no-commercial-use certification. Not clicked (**Nick's call**). Cereal malt beverage (beer to 6%) retailers are licensed by city and
   county clerks and may be missing from it. The on-premise license map (Jan 4, 2024: about 2,800) and abcMapsSummary.xlsx (Jan 20,
