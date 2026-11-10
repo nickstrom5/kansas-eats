@@ -175,9 +175,9 @@ struct ClusteredMap: UIViewRepresentable {
         map.pointOfInterestFilter = .excludingAll
         map.register(PlaceMarker.self, forAnnotationViewWithReuseIdentifier: PlaceMarker.id)
         map.register(ClusterMarker.self, forAnnotationViewWithReuseIdentifier: MKMapViewDefaultClusterAnnotationViewReuseIdentifier)
-        // the whole state, Lake Michigan to the Ohio River (Michigan's map once opened over Texas: set per state)
-        map.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 39.80, longitude: -86.30),
-                                         span: MKCoordinateSpan(latitudeDelta: 4.6, longitudeDelta: 4.2)), animated: false)
+        // the whole state, the Colorado line to the Missouri River (set per state: a copied region opens the map over another state)
+        map.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 38.50, longitude: -98.32),
+                                         span: MKCoordinateSpan(latitudeDelta: 3.4, longitudeDelta: 8.4)), animated: false)
         let start = map.region
         DispatchQueue.main.async { onRegion(start) }
         return map
